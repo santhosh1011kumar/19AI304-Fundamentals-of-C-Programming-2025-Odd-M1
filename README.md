@@ -75,6 +75,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+```
 #include <stdio.h>
 
 #define MACRO_VALUE 100
@@ -86,6 +87,7 @@ printf("Macro constant value: %d\n", MACRO_VALUE);
 printf("Constant variable value: %d", constVar);
 
 return 0;
+```
 # Output:
 <img width="915" height="449" alt="image" src="https://github.com/user-attachments/assets/9c45cd72-4466-4e1f-93d6-b62b15c13d62" />
 
